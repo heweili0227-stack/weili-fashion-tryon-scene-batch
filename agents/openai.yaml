@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weili Fashion Try-On Scene Batch"
+  short_description: "Choose scenes, count, and ratio"
+  default_prompt: "Use $weili-fashion-tryon-scene-batch with language=auto to show 30 scene options, then let me choose scenes, image count, and aspect ratio for try-on generation."
